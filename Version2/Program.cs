@@ -52,7 +52,7 @@ app.UseRouting();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Donhangs}/{action=UI_NguoiGiaoHang" +
+    pattern: "{controller=Home}/{action=Index" +
     "}/{id?}");
 
 app.Run();

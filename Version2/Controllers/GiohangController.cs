@@ -114,20 +114,12 @@ namespace Version2.Controllers
         //LẤY RANDOM IDKHACHHANG
         private int GetRandomDingoGiaoHang()
         {
-            // Lấy danh sách tất cả IdnguoiGiaoHang từ cơ sở dữ liệu
-            var ids = _context.Nguoigiaohangs.Select(ngh => ngh.IdnguoiGiaoHang).ToList();
+            int randomId = _context.Set<Nguoigiaohang>()
+                .OrderBy(ngh => Guid.NewGuid()) // Sắp xếp ngẫu nhiên
+                .Select(ngh => ngh.IdnguoiGiaoHang) // Chỉ lấy IdnguoiGiaoHang
+                .FirstOrDefault(); // Lấy bản ghi đầu tiên hoặc giá trị mặc định nếu không có
 
-            // Kiểm tra xem danh sách có ít nhất một Id không
-            if (ids.Any())
-            {
-                // Tạo đối tượng Random và chọn ngẫu nhiên một Id
-                Random random = new Random();
-                int randomIndex = random.Next(ids.Count);
-                return ids[randomIndex];
-            }
-
-            // Trả về giá trị mặc định nếu không có Id nào trong cơ sở dữ liệu
-            return -1;
+            return randomId;
         }
 
         [HttpGet]

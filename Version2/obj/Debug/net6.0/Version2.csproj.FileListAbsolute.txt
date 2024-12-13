@@ -282,3 +282,4 @@ C:\Users\truong\OneDrive\Máy tính\Version2\Version2\bin\Debug\net6.0\runtimes\
 C:\Users\truong\OneDrive\Máy tính\Version2\Version2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout_Admin.cshtml.rz.scp.css
 C:\Users\truong\OneDrive\Máy tính\Version2\Version2\bin\Debug\net6.0\bundleconfig.json
 C:\Users\truong\OneDrive\Máy tính\Version2\Version2\obj\Debug\net6.0\scopedcss\Views\Shared\_LayoutNguoiGiaoHang.cshtml.rz.scp.css
+C:\Users\truong\OneDrive\Máy tính\Version2\Version2\obj\Debug\net6.0\Version2.sourcelink.json
