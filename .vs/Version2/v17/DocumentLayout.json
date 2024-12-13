@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|c:\\users\\truong\\onedrive\\m\u00E1y t\u00EDnh\\version2\\version2\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|solutionrelative:version2\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|c:\\users\\truong\\onedrive\\m\u00E1y t\u00EDnh\\version2\\version2\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|solutionrelative:version2\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|c:\\users\\truong\\onedrive\\m\u00E1y t\u00EDnh\\version2\\version2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|solutionrelative:version2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|c:\\users\\truong\\onedrive\\m\u00E1y t\u00EDnh\\version2\\version2\\views\\donhangs\\ui_nguoigiaohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|solutionrelative:version2\\views\\donhangs\\ui_nguoigiaohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|c:\\users\\truong\\onedrive\\m\u00E1y t\u00EDnh\\version2\\version2\\views\\donhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|solutionrelative:version2\\views\\donhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|c:\\users\\truong\\onedrive\\m\u00E1y t\u00EDnh\\version2\\version2\\views\\shared\\_layout_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|solutionrelative:version2\\views\\shared\\_layout_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|c:\\users\\truong\\onedrive\\m\u00E1y t\u00EDnh\\version2\\version2\\views\\danhmucs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|solutionrelative:version2\\views\\danhmucs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|c:\\users\\truong\\onedrive\\m\u00E1y t\u00EDnh\\version2\\version2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|solutionrelative:version2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|c:\\users\\truong\\onedrive\\m\u00E1y t\u00EDnh\\version2\\version2\\controllers\\nguoigiaohangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|solutionrelative:version2\\controllers\\nguoigiaohangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|c:\\users\\truong\\onedrive\\m\u00E1y t\u00EDnh\\version2\\version2\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|solutionrelative:version2\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|c:\\users\\truong\\onedrive\\m\u00E1y t\u00EDnh\\version2\\version2\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B271CF-ACDE-4CAD-8ABD-FF3155840D73}|Version2\\Version2.csproj|solutionrelative:version2\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GiohangController.cs",
+              "DocumentMoniker": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Controllers\\GiohangController.cs",
+              "RelativeDocumentMoniker": "Version2\\Controllers\\GiohangController.cs",
+              "ToolTip": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Controllers\\GiohangController.cs",
+              "RelativeToolTip": "Version2\\Controllers\\GiohangController.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAASwAABAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T01:37:42.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Program.cs",
+              "RelativeDocumentMoniker": "Version2\\Program.cs",
+              "ToolTip": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Program.cs",
+              "RelativeToolTip": "Version2\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:44:19.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Views\\Donhangs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Version2\\Views\\Donhangs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Views\\Donhangs\\Index.cshtml",
+              "RelativeToolTip": "Version2\\Views\\Donhangs\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T08:40:37.147Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UI_NguoiGiaoHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Views\\Donhangs\\UI_NguoiGiaoHang.cshtml",
+              "RelativeDocumentMoniker": "Version2\\Views\\Donhangs\\UI_NguoiGiaoHang.cshtml",
+              "ToolTip": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Views\\Donhangs\\UI_NguoiGiaoHang.cshtml",
+              "RelativeToolTip": "Version2\\Views\\Donhangs\\UI_NguoiGiaoHang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T09:38:24.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonhangsController.cs",
+              "DocumentMoniker": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Controllers\\DonhangsController.cs",
+              "RelativeDocumentMoniker": "Version2\\Controllers\\DonhangsController.cs",
+              "ToolTip": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Controllers\\DonhangsController.cs",
+              "RelativeToolTip": "Version2\\Controllers\\DonhangsController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAhwEwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:03:02.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout_Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Views\\Shared\\_Layout_Admin.cshtml",
+              "RelativeDocumentMoniker": "Version2\\Views\\Shared\\_Layout_Admin.cshtml",
+              "ToolTip": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Views\\Shared\\_Layout_Admin.cshtml",
+              "RelativeToolTip": "Version2\\Views\\Shared\\_Layout_Admin.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T09:43:24.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Views\\Danhmucs\\Create.cshtml",
+              "RelativeDocumentMoniker": "Version2\\Views\\Danhmucs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Views\\Danhmucs\\Create.cshtml",
+              "RelativeToolTip": "Version2\\Views\\Danhmucs\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T09:43:43.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Version2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Version2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T09:43:23.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NguoigiaohangsController.cs",
+              "DocumentMoniker": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Controllers\\NguoigiaohangsController.cs",
+              "RelativeDocumentMoniker": "Version2\\Controllers\\NguoigiaohangsController.cs",
+              "ToolTip": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Controllers\\NguoigiaohangsController.cs",
+              "RelativeToolTip": "Version2\\Controllers\\NguoigiaohangsController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswG4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:03:22.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HoadonsController.cs",
+              "DocumentMoniker": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Controllers\\HoadonsController.cs",
+              "RelativeDocumentMoniker": "Version2\\Controllers\\HoadonsController.cs",
+              "ToolTip": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Controllers\\HoadonsController.cs",
+              "RelativeToolTip": "Version2\\Controllers\\HoadonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:02:52.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hoadon.cs",
+              "DocumentMoniker": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Models\\Hoadon.cs",
+              "RelativeDocumentMoniker": "Version2\\Models\\Hoadon.cs",
+              "ToolTip": "C:\\Users\\truong\\OneDrive\\M\u00E1y t\u00EDnh\\Version2\\Version2\\Models\\Hoadon.cs",
+              "RelativeToolTip": "Version2\\Models\\Hoadon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:02:47.684Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
